@@ -1,0 +1,23 @@
+{
+  "name": "lltree",
+  "version": "1.0.0",
+  "description": "large language trees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "large",
+    "language",
+    "trees"
+  ],
+  "author": "caio temer",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.9.0",
+    "fs-path": "^0.0.25",
+    "gpt-3-encoder": "^1.1.4",
+    "lodash": "^4.17.21",
+    "what-the-pack": "^2.0.3"
+  }
+}

@@ -52,6 +52,6 @@ This project is licensed under the MIT License. See the LICENSE.md file for more
 
 ## Contact
 
-If you have any questions or want to get in touch, please send an email to your-email@example.com.
+If you have any questions or want to get in touch, please send an email to rtkcloud@gmail.com.
 
-Thank you for using our Class Search System with GPT-3 Tokens. We hope it proves to be valuable for your text processing and information retrieval needs.
+Thank you for using our LARGE LANGUAGE TREES. We hope it proves to be valuable for your text processing and information retrieval needs.
